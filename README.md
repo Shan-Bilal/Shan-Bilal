@@ -11,7 +11,7 @@ background in Privileged Access Management (CyberArk) at Deutsche Börse.
 - **Security:** CyberArk, PAM, secrets management
 
 ## Projects
-- azure-aks-terraform-platform: AKS platform on Azure with Terraform and CI/CD (in progress)
+- [azure-aks-terraform-platform](https://github.com/Shan-Bilal/azure-aks-terraform-platform): AKS platform on Azure with Terraform and CI/CD (in progress)
 
 ## Certifications
 - AWS Certified Cloud Practitioner
