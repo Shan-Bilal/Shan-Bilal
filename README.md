@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shan 👋
 
-<!--
-**Shan-Bilal/Shan-Bilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer based in Frankfurt, Germany.
+I work with Azure, Terraform, Kubernetes (AKS) and CI/CD, with a
+background in Privileged Access Management (CyberArk) at Deutsche Börse.
 
-Here are some ideas to get you started:
+## What I work with
+- **Cloud:** Azure, AWS
+- **IaC:** Terraform, ARM, Ansible
+- **Containers & CI/CD:** Docker, Kubernetes, Azure DevOps, GitHub Actions
+- **Security:** CyberArk, PAM, secrets management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- azure-aks-terraform-platform: AKS platform on Azure with Terraform and CI/CD (in progress)
+
+## Certifications
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+
+## Contact
+[LinkedIn](https://linkedin.com/in/shan-bilal) · shanbilalkhichi@gmail.com
