@@ -12,6 +12,7 @@ background in Privileged Access Management (CyberArk) at Deutsche Börse.
 
 ## Projects
 - [azure-aks-terraform-platform](https://github.com/Shan-Bilal/azure-aks-terraform-platform): AKS platform on Azure with Terraform and CI/CD (in progress)
+- [k8s-helm-demo](https://github.com/Shan-Bilal/k8s-helm-demo): Flask app on Kubernetes with a custom Helm chart, ingress, health probes and autoscaling
 
 ## Certifications
 - AWS Certified Cloud Practitioner
